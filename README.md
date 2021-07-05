@@ -32,7 +32,7 @@ At last, it computes the Euclidean distance between the query image
 
 ### KNN Classifier
 
-- Identifying handwritten single digits in an image
+- Identifying handwritten single digits in an image, tested against 5 inputs
 
 ### k-Means Clustering
 
