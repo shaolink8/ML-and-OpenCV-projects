@@ -15,7 +15,7 @@ In the code, we provided 10 images as an input to the model
 
 - Signboard Classification - using these classifiers to classify an input image into classic road signs such as "left turn", "no parking", "right turn", "school ahead", "slow", "speedbreaker", "stop signal", "uturn", "Zebra".<br>
 The dataset includes a total of 19, 18, 16, 23, 22, 19, 26, 16 and 22 images respectively, 75% of which were used for training and 25% for testing<br>
-In the code, we have provided 3 images as ain put to the model
+In the code, we have provided 3 images as an input to the model
 
 ### Linear SVM 
 
