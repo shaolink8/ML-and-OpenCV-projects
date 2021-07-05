@@ -10,7 +10,7 @@ import cv2
 
 # load the image, display it, and construct the list of bilateral
 # filtering parameters that we are going to explore
-image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\10.smoothing_and_blurring\big_boss.jpg')
+image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\10.smoothing_and_blurring\big_boss.jpg')
 cv2.imshow("Original", image)
 params = [(11, 21, 7), (11, 41, 21), (11, 61, 39)]
 

@@ -8,7 +8,7 @@ import sys
 import numpy as np
 
 # load the image and show it
-image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\5.rotation\minion.jpg')
+image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\5.rotation\minion.jpg')
 cv2.imshow("Original", image)
 
 

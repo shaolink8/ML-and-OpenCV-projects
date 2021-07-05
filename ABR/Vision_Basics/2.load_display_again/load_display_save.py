@@ -10,7 +10,7 @@ import sys
 #image = sys.argv[1]
 
 # load the image and show some basic information on it
-img = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\2.load_display_again\big_boss.jpg')
+img = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\2.load_display_again\big_boss.jpg')
 
 print("width:",img.shape[1])
 print("height:",img.shape[0])

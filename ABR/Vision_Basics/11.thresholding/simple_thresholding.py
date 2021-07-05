@@ -10,7 +10,7 @@ import cv2
 #img = sys.argv[1]
 
 # load the image, convert it to grayscale, and blur it slightly
-image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\11.thresholding\opencv_logo.png')
+image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\11.thresholding\opencv_logo.png')
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 blurred = cv2.GaussianBlur(gray, (7, 7), 0)
 cv2.imshow("Image", image)

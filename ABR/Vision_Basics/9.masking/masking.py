@@ -10,7 +10,7 @@ import cv2
 #img = sys.argv[1]
 
 # load the image and display it it
-image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\9.masking\minion.jpg')
+image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\9.masking\minion.jpg')
 cv2.imshow("Original", image)
 
 

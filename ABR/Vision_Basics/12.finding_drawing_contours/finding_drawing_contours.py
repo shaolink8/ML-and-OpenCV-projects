@@ -12,7 +12,7 @@ import imutils
 #print (img)
 
 # load the image and convert it to grayscale
-image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-ABR\ABR\Vision_Basics\12.finding_drawing_contours\basic_shapes.png')
+image = cv2.imread(r'C:\Users\Shaolin Kataria\Documents\GitHub\ML-and-OpenCV-projects\ABR\Vision_Basics\12.finding_drawing_contours\basic_shapes.png')
 print (image)
 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
