@@ -42,6 +42,7 @@ The dataset in this example includes images of Antelope Canyon and Grand Canyon.
 ### Logistic Regression 
 
 - Plotting of Step Function and Sigmoid
+- Using Logistic Regression to predict a famous personality's name from an input image
 
 ### SVM
 
